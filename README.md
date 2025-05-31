@@ -59,20 +59,20 @@ The `/Submission` folder contains the following prediction files:
 
 1. **Standard_top1.csv** (2.8MB)
 
-   - First place submission for Data Vision 2025 competition
+   - Top 1 submission for [Data Vision 2025 competition](https://www.kaggle.com/competitions/data-vision-2025/overview)
    - Contains predictions for 100,000 test samples
    - Format: id, Exited (probability of churn)
    - Generated using standard pipeline with basic feature engineering
 
 2. **Competitive_Top1.csv** (2.8MB)
 
-   - First place submission for Playground Series S4E1 competition
+   - Top 1 submission for [Playground Series S4E1 competition](https://www.kaggle.com/competitions/playground-series-s4e1/overview)
    - Contains predictions for 100,000 test samples
    - Format: id, Exited (probability of churn)
    - Generated using advanced pipeline with competition-specific optimizations
 
 3. **BankChurnNew_top1.csv** (255KB, 10,002 lines)
-   - First place submission for Public Telecom Customer Churn Analysis and Prediction
+   - Top 1 submission for [Bank Customer Churn Prediction Challenge](https://www.kaggle.com/competitions/bank-customer-churn-prediction-challenge)
    - Contains predictions for 10,000 test samples
    - Format: id, Exited (probability of churn)
    - Generated using specialized pipeline for telecom customer churn prediction
